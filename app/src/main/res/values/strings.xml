@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ML_APP</string>
+    <string name="SelectImage">Select Image</string>
+    <string name="open_camera">Open Camera</string>
+</resources>
